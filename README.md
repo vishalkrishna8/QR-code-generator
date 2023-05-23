@@ -1,5 +1,6 @@
 ## QR code generator
 
+
 This is a QR code generator website 
 
 
@@ -17,6 +18,7 @@ This website was built using the following technologies:
 
 • JavaScript
 
+
 ## Installation
 
 
@@ -25,6 +27,7 @@ To install and run the website locally, follow these steps:
 1. Clone the repository
 
 2. Open the website in a browser: http://localhost:3000
+
 
 ## Contributing
 
