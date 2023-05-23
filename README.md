@@ -3,6 +3,9 @@
 This is a QR code generator website 
 
 
+<!-- Live demo-->
+
+
 ## Technologies used
 
 
