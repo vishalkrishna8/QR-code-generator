@@ -3,7 +3,7 @@
 This is a QR code generator website 
 
 
-<!-- ## [Live demo](https://playnowchess.vercel.app/) -->
+## [Live demo](https://qr-code-generatorrr.vercel.app/)
 
 
 ## Technologies used
