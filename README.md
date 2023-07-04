@@ -1,4 +1,4 @@
-## QR code generator
+# QR code generator
 
 
 This is a QR code generator website built using html css and javascript. 
