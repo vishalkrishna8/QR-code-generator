@@ -4,7 +4,7 @@
 This is a QR code generator website built using html css and javascript. 
 
 
-# [Live demo](https://qr-code-generatorrr.vercel.app/)
+# [Live Preview](https://qr-code-generatorrr.vercel.app/)
 
 
 #### Technologies used
