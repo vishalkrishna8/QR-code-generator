@@ -6,7 +6,7 @@
     font-family: "Poppins",sans-serif;
 }
 body{
-    display: flex;
+   <!-- display: flex;
     justify-content: center;
     align-items: center;
 
@@ -14,11 +14,22 @@ body{
     background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(backimg.png);
     background-size: cover;
     background-position: center;
-    background-attachment: fixed;
+    background-attachment: fixed; -->
 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(backimg.png);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(backimg.png);
+    background-size: cover;
+    background-position: center;
+    
+    background-attachment: fixed;
     
    <!-- min-height: 100vh;
     background-color: rgb(26, 26, 26); -->
+
 }
 .wrapper{
     height: 200px;
