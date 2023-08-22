@@ -22,8 +22,8 @@ body{
     justify-content: center;
     align-items: center;
     
-    background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(imgbg.jpg);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(imgbg.jpg);  
+    background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(imgbg.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(imgbg.jpg);  
     background-size: cover;
     background-position: center;
     
