@@ -12,11 +12,11 @@ This is a QR code generator website built using html css and javascript.
 
 This website was built using the following technologies:
 
-• HTML
+1. HTML
 
-• CSS
+2. CSS
 
-• JavaScript
+3. JavaScript
 
 
 #### Installation
