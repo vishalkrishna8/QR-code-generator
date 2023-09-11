@@ -77,7 +77,7 @@ header p{
     font-weight: 550;
     letter-spacing: 1px;
     background: rgb(26, 26,26);
-    color: #fff;
+    color: white;
 }
 .wrapper .qr-code{
     display: flex;
